@@ -1,2 +1,2 @@
 # ebike
-My electric bike's custom  electronic and electromechanical systems
+My electric bike's custom  electrical and mechanical systems
