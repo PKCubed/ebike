@@ -1,0 +1,17 @@
+{
+  "idf.currentSetup": "C:\\Users\\peter\\esp\\v5.5.1\\esp-idf",
+  "idf.openOcdConfigs": [
+    "board/esp32-wrover-kit-3.3v.cfg"
+  ],
+  "idf.portWin": "COM17",
+  "idf.customExtraVars": {
+    "IDF_TARGET": "esp32"
+  },
+  "clangd.path": "C:\\Users\\peter\\.espressif\\tools\\esp-clang\\esp-19.1.2_20250312\\esp-clang\\bin\\clangd.exe",
+  "clangd.arguments": [
+    "--background-index",
+    "--query-driver=**",
+    "--compile-commands-dir=c:\\Users\\peter\\Documents\\GitHub\\ebike\\Rear Box Firmware\\build"
+  ],
+  "idf.flashType": "UART"
+}
